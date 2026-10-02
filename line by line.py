@@ -1,0 +1,1 @@
+print("Iam kushal\nIam 20 years old\nIam in class")
